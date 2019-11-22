@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ctAPIIntegrationApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ctAPIIntegrationApp_ctDynamicsSL_VoucherAndAdjustmentEntry_voucherAndAdjustmentEntry" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://catalina.cloudapp.net/ctDynamicsSL/voucherAndAdjustmentEntry.asmx</Value>
+    </Setting>
+    <Setting Name="SITEID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CPNYID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SITEKEY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LICENSEKEY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LICENSENAME" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LICENSEEXPIRATION" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SOFTWARENAME" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CTAPI</Value>
+    </Setting>
+    <Setting Name="ctAPIIntegrationApp_ctDynamicsSL_Common_common" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://catalina.cloudapp.net/ctDynamicsSL/common.asmx</Value>
+    </Setting>
+    <Setting Name="CrtdUpdProg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MYPROG</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,8 @@
+E:\Source\Github\CustomExamples\ctAPIIntegrationApp\bin\Debug\ctAPIIntegrationApp.exe.config
+E:\Source\Github\CustomExamples\ctAPIIntegrationApp\bin\Debug\ctAPIIntegrationApp.exe
+E:\Source\Github\CustomExamples\ctAPIIntegrationApp\bin\Debug\ctAPIIntegrationApp.pdb
+E:\Source\Github\CustomExamples\ctAPIIntegrationApp\bin\Debug\ctStandardLib.dll
+E:\Source\Github\CustomExamples\ctAPIIntegrationApp\obj\Debug\ctAPIIntegrationApp.csprojAssemblyReference.cache
+E:\Source\Github\CustomExamples\ctAPIIntegrationApp\obj\Debug\ctAPIIntegrationApp.csproj.CopyComplete
+E:\Source\Github\CustomExamples\ctAPIIntegrationApp\obj\Debug\ctAPIIntegrationApp.exe
+E:\Source\Github\CustomExamples\ctAPIIntegrationApp\obj\Debug\ctAPIIntegrationApp.pdb
